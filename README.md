@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Passos</h1>
-<h3 align="center">A Pythonish curious back-end dev</h3>
+<h3 align="center">A Pythonish curious back-end student dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caio-passos&label=Profile%20views&color=0e75b6&style=flat" alt="caio-passos" /> </p>
 
