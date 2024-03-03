@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-passos" alt="caio-passos" /></a> </p>
 
-- 🔭 I’m currently working on **HotDogGamesCo.**
+- 🔭 I’m currently working on **Hive Computer vision.**
 
-- 🌱 I’m currently learning **Databases, Python, Machine Learning**
+- 🌱 I’m currently learning **Docker, Python, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Google**
 
