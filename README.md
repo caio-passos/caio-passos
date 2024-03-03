@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, Python, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Google**
+- 👯 Completing my Computer Science degree is something I'm really looking forward to.
 
 - 📫 How to reach me **caiopss99@gmail.com**
 
