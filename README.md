@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **caiopss99@gmail.com**
 
-- ⚡ Fun fact **I can do a presentation about almost everything if you give me a week to study about it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
