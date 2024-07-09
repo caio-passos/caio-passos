@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hive Computer vision.**
 
-- 🌱 I’m currently learning ** Django and Machine Learning**
+- 🌱 I’m currently learning ** Golang and improving my general coding skills**
 
 - 👯 Completing my Computer Science degree is something I'm really looking forward to.
 
