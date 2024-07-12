@@ -11,7 +11,7 @@
 
 - 👯 Completing my Computer Science degree is something I'm really looking forward to.
 
-- 📫 How to reach me **caiopss99@gmail.com**
+- 📫 How to reach me **caiopassosdev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
