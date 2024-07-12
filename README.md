@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Caio Passos</h1>
 <h3 align="center">A back-end dev</h3>
 
-<p align="center"> ![image](https://github.com/user-attachments/assets/016bd153-f5f4-4fcd-85ac-9dc0e8c593a2) </p>
+<p align="center">
+            ![image](https://github.com/user-attachments/assets/6cd587bb-3dbd-48a0-bc7f-b4fc42a0cde7)
 
-<div style="text-align:center">
+</p>
+
+
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-passos" alt="caio-passos" /></a>
-</div>
 
 - 🔭 I’m currently working on **Hive Computer vision.**
 
