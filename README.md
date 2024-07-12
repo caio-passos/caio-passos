@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Passos</h1>
 <h3 align="center">A back-end dev</h3>
 
-![image](https://github.com/user-attachments/assets/016bd153-f5f4-4fcd-85ac-9dc0e8c593a2)
+<p align="center"> ![image](https://github.com/user-attachments/assets/016bd153-f5f4-4fcd-85ac-9dc0e8c593a2) </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-passos" alt="caio-passos" /></a> </p>
