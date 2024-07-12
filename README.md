@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caio Passos</h1>
 <h3 align="center">A back-end dev</h3>
 
+![image](https://github.com/user-attachments/assets/016bd153-f5f4-4fcd-85ac-9dc0e8c593a2)
 
-<iframe src="https://giphy.com/embed/l1J9qemh1La8b0Rag" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vintage-computer-old-l1J9qemh1La8b0Rag">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caio-passos&label=Profile%20views&color=0e75b6&style=flat" alt="caio-passos" /> </p>
-](https://i.giphy.com/l1J9qemh1La8b0Rag.webp)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-passos" alt="caio-passos" /></a> </p>
 
