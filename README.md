@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Passos</h1>
-<h3 align="center">A back-end dev</h3>
+<h3 align="center">Back-end is where the magic happens</h3>
 
 <div align="center">
 -🔭 I’m currently working on Hive Computer vision
