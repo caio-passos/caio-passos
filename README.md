@@ -4,7 +4,7 @@
 <div align="center">
 -🔭 I’m currently working on Hive Computer vision
 
--🌱 I’m currently learning **Golang and improving my general coding skills**
+-🌱 I’m currently learning **React native and improving my general coding skills**
 
 -👯 Completing my Computer Science BSc is something I'm really looking forward to.
 
