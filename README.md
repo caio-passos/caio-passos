@@ -2,9 +2,9 @@
 <h3 align="center">Back-end is where the magic happens</h3>
 
 <div align="center">
--🔭 I’m currently working on CompassUOL and Hive Computer vision
+-🔭 I’m currently working with Idiomus
 
--🌱 I’m currently learning **React native, Langchain and improving my general coding skills**
+-🌱 I’m currently learning **M.L, Data science, automations and improving my general coding skills**
 
 -👯 Completing my Computer Science BSc is something I'm really looking forward to.
 
