@@ -20,7 +20,7 @@ What's public here are side projects and experiments.</i>
 <h3 align="center">Contact</h3>
 <p align="center">
   <a href="https://linkedin.com/in/caiopassos-dev">LinkedIn</a> ·
-  <a href="mailto:caiopassosdev@gmail.com">caiopassosdev@gmail.com</a>
+  <a href="mailto:caiopss99@gmail.com">caiopss99@gmail.com</a>
 </p>
 
 <div align="center">
