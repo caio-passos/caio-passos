@@ -2,14 +2,19 @@
 <h3 align="center">AI Engineer. LLM systems, agents and inference.</h3>
 
 <p align="center">
-I work mostly with LLMs in production: agents, RAG, evals and inference optimizations.<br>
-I've fine-tuned models, served PyTorch models in production and trained models in Rust with Burn.<br>
-Before that I worked on computer vision, with detection (YOLO, RT-DETR) and crowd counting with P2PNet.
+I build LLM applications in production: agents (LangGraph, Mastra), RAG on vector databases, evals and inference optimization.<br>
+I've fine-tuned models, served PyTorch models behind FastAPI and trained models in Rust with Burn.<br>
+Before that I worked on computer vision, with detection (YOLO, RT-DETR, RF-DETR) and crowd counting with P2PNet.
+</p>
+
+<p align="center">
+<i>Most of my production work is proprietary, built for the companies I've worked with.<br>
+What's public here are side projects and experiments.</i>
 </p>
 
 <h3 align="center">Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,rust,pytorch,fastapi,postgres,docker,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,go,pytorch,fastapi,postgres,docker,aws,gcp,linux,git" />
 </p>
 
 <h3 align="center">Contact</h3>
